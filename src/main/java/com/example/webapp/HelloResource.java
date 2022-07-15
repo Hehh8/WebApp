@@ -18,5 +18,6 @@ public class HelloResource {
         System.out.println("hello git3");
         System.out.println("master test");
         System.out.println("branch test");
+        System.out.println("push test");
     }
 }
